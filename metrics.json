@@ -1,0 +1,14 @@
+{
+  "applied_shift_yx": [
+    7,
+    -11
+  ],
+  "estimated_correction_yx": [
+    -7,
+    11
+  ],
+  "rmse_before": 0.1433193394968387,
+  "rmse_after": 0.0020064221920453136,
+  "seed": 42,
+  "data": "synthetic"
+}
